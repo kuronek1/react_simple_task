@@ -1,0 +1,36 @@
+.textContent p{
+    margin: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.buttons a {
+    margin: 10px;
+    padding: 5px;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.buttons a:first-child{
+    border: 1px solid #4A235A;
+    background-color: #4A235A;
+    color: white;
+}
+
+.buttons a:last-child {
+    border: 1px solid #26B463;
+    color: #26B463;
+    background-color: transparent;
+}
+
+
+.netsLinks svg {
+    margin: 0 10px;
+}

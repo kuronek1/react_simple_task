@@ -1,0 +1,20 @@
+.userInfo {
+    display: flex;
+    align-items: center;
+
+    height: 75px;
+    
+    background-color: white;
+}
+
+.userInfo img {
+    height: 60px;
+    width: 60px;
+    margin-left: 20px;
+    border-radius: 50%;
+}
+
+.userName {
+    padding: 0 20px;
+
+}
